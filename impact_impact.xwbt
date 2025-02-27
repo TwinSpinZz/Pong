@@ -1,0 +1,8 @@
+INTSTYLE=impact
+INFILE=/home/student1/npirathe/Desktop/coe758_pong_final/impact.xsl
+OUTFILE=/home/student1/npirathe/Desktop/coe758_pong_final/impact.xsl
+FAMILY=Multiple
+PART=Multiple
+WORKINGDIR=/home/student1/npirathe/Desktop/coe758_pong_final
+LICENSE=iMPACT
+USER_INFO=iMPACT

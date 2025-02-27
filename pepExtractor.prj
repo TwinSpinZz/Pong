@@ -1,0 +1,8 @@
+work	"VGA.vhd"
+work	"ball.vhd"
+work	"clock_divider_2.vhd"
+work	"constants.vhd"
+work	"count_gen.vhd"
+work	"paddle.vhd"
+work	"sync_gen.vhd"
+work	"top_level.vhd"

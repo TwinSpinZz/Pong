@@ -1,0 +1,42 @@
+Running: /CMC/tools/xilinx/13.4/ISE_DS/ISE/bin/lin64/unwrapped/fuse -intstyle ise -incremental -o /home/student1/npirathe/Desktop/coe758_pong_final.2/top_level_isim_beh.exe -prj /home/student1/npirathe/Desktop/coe758_pong_final.2/top_level_beh.prj work.top_level 
+ISim O.87xd (signature 0x8ddf5b5d)
+Number of CPUs detected in this system: 8
+Turning on mult-threading, number of parallel sub-compilation jobs: 16 
+Determining compilation order of HDL files
+Parsing VHDL file "/home/student1/npirathe/Desktop/coe758_pong_final.2/ipcore_dir/icon.vhd" into library work
+Parsing VHDL file "/home/student1/npirathe/Desktop/coe758_pong_final.2/constants.vhd" into library work
+Parsing VHDL file "/home/student1/npirathe/Desktop/coe758_pong_final.2/VGA.vhd" into library work
+Parsing VHDL file "/home/student1/npirathe/Desktop/coe758_pong_final.2/sync_gen.vhd" into library work
+Parsing VHDL file "/home/student1/npirathe/Desktop/coe758_pong_final.2/paddle.vhd" into library work
+Parsing VHDL file "/home/student1/npirathe/Desktop/coe758_pong_final.2/ipcore_dir/ila.vhd" into library work
+Parsing VHDL file "/home/student1/npirathe/Desktop/coe758_pong_final.2/count_gen.vhd" into library work
+Parsing VHDL file "/home/student1/npirathe/Desktop/coe758_pong_final.2/clock_divider_2.vhd" into library work
+Parsing VHDL file "/home/student1/npirathe/Desktop/coe758_pong_final.2/ball.vhd" into library work
+Parsing VHDL file "/home/student1/npirathe/Desktop/coe758_pong_final.2/top_level.vhd" into library work
+Starting static elaboration
+Completed static elaboration
+Fuse Memory Usage: 138632 KB
+Fuse CPU Usage: 950 ms
+Compiling package standard
+Compiling package std_logic_1164
+Compiling package std_logic_arith
+Compiling package std_logic_unsigned
+Compiling package vcomponents
+Compiling package constants
+Compiling package numeric_std
+Compiling architecture behavioral of entity clock_divider_2 [clock_divider_2_default]
+Compiling architecture behavioral of entity count_gen [count_gen_default]
+Compiling architecture behavioral of entity sync_gen [sync_gen_default]
+Compiling architecture behavioral of entity paddle [paddle_default]
+Compiling architecture behavioral of entity ball [ball_default]
+Compiling architecture behavioral of entity VGA [vga_default]
+Compiling architecture icon_a of entity icon [icon_default]
+Compiling architecture ila_a of entity ila [ila_default]
+Compiling architecture behavioral of entity top_level
+Time Resolution for simulation is 1ps.
+Waiting for 1 sub-compilation(s) to finish...
+Compiled 24 VHDL Units
+Built simulation executable /home/student1/npirathe/Desktop/coe758_pong_final.2/top_level_isim_beh.exe
+Fuse Memory Usage: 1241924 KB
+Fuse CPU Usage: 1170 ms
+GCC CPU Usage: 2690 ms

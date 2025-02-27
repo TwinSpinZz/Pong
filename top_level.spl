@@ -1,0 +1,14 @@
+[Inputs]
+clk_50
+left_up
+left_down
+right_up
+right_down
+[Outputs]
+clk_25
+h_sync
+v_sync
+=Rout[7:0]=
+=Bout[7:0]=
+=Gout[7:0]=
+[BiDir]

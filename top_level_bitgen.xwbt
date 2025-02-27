@@ -1,0 +1,8 @@
+INTSTYLE=ise
+INFILE=/home/student1/s96gill/Desktop/COE758/COE758Project_JS_SSG/top_level.ncd
+OUTFILE=/home/student1/s96gill/Desktop/COE758/COE758Project_JS_SSG/top_level.bit
+FAMILY=Spartan3E
+PART=xc3s500e-5fg320
+WORKINGDIR=/home/student1/s96gill/Desktop/COE758/COE758Project_JS_SSG
+LICENSE=ISE
+USER_INFO=175353682_174116511_210722484_808
